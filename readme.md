@@ -1,6 +1,3 @@
-Aqui está uma proposta de **README.md** completa, profissional e formatada, pronta para ser usada no repositório do seu projeto (GitHub, GitLab, etc.).
-
-Ele inclui seções de instalação, arquitetura, uso com Docker e explicação da lógica utilizada.
 
 -----
 
